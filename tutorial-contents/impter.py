@@ -1,0 +1,3 @@
+import imptee
+
+imptee.show()
